@@ -1,0 +1,68 @@
+.head{
+    border: 5px solid black;
+    height: 100px;
+    margin: 10px;
+  display: flex;
+   
+}
+.parent{
+    display: flex;
+    flex-flow: row wrap  ;
+    justify-content: space-between;
+    
+
+    margin: 10px;
+   padding: 10px;
+  height: 500px;
+
+}
+.bx1{
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+   margin: 10px;
+    width: 30%;
+    
+   
+}
+.bx2{
+    border: 5px solid black;
+    margin: 10px;
+    
+
+    width: 30%;
+    
+    
+} 
+.bx3{
+    border: 5px solid black;
+    margin: 10px;
+    text-align: center;
+
+    
+    width: 30%;
+    
+}
+.bx4{
+    text-align: center;
+
+    margin: 10px;
+
+    
+    width: 30%;
+}
+li{
+    margin: 10px;
+}
+.about{
+    
+    
+    margin: 20px;
+    margin-left: 200px;
+}
+.t{
+    margin: 20px;
+}
+.s{
+    margin: 20px;
+
+}
